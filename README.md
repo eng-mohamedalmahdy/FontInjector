@@ -1,24 +1,24 @@
 # FontInjector 🖋️
 
-**Add new symbols or SVG glyphs to your fonts in seconds!**  
-أضف الرموز الجديدة أو الجليفات بصيغة SVG إلى الخطوط بسرعة وسهولة.
+A small Python script to easily add new symbols (like the Riyal symbol) to your fonts.  
+سكريبت صغير بلغة Python يتيح لك إضافة رموز جديدة بسهولة لأي خط، مثل رمز الريال الجديد.
 
 ---
 
 ## ⚡ Features | الميزات
 
-- Add the **new Riyal symbol** or any SVG glyph to your fonts.  
-  أضف **رمز الريال الجديد** أو أي جليف SVG للخطوط.
-- Replace existing glyphs or insert new ones.  
-  استبدل الجليف الموجود أو أضف جليف جديد حسب اختيارك.
-- Support a **single font or an entire folder**.  
-  دعم خط واحد أو مجلد كامل من الخطوط.
-- Interactive CLI with **progress bar**.  
-  CLI تفاعلي مع **شريط تقدم** لكل خط.
-- Generate **ready-to-use font files** immediately.  
-  ينتج نسخة جاهزة من الخط للاستخدام فورًا.
-- Can be packaged into **EXE or binary** for any OS.  
-  يمكن تحويل السكريبت إلى **EXE أو Binary** لأي نظام تشغيل.
+- Add any SVG glyph to a TTF/OTF font.  
+  أضف أي جليف بصيغة SVG لأي خط TTF/OTF.
+- Replace an existing glyph or insert a new one.  
+  استبدل جليف موجود أو أضف جليف جديد.
+- Work on a single font or a whole folder.  
+  يعمل على خط واحد أو مجلد كامل من الخطوط.
+- Interactive CLI with progress bar.  
+  واجهة CLI تفاعلية مع شريط تقدم.
+- Outputs ready-to-use fonts immediately.  
+  يعطيك نسخة من الخط جاهزة للاستخدام فورًا.
+- Can be packaged into an EXE/binary.  
+  يمكن تحويل السكريبت إلى EXE أو Binary لأي نظام.
 
 ---
 
